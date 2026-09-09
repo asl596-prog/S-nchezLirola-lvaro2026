@@ -1,0 +1,30 @@
+# Maven & Java
+/target/
+/bin/
+*.class
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Sistemas Operativos
+.DS_Store
+Thumbs.db
+
+# IDEs alternativos
+.idea/
+*.iml
+*.swp

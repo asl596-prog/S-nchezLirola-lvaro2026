@@ -1,0 +1,14 @@
+# Texto y saltos de linea
+* text=auto eol=lf
+*.java text diff=java eol=lf
+*.py   text diff=python eol=lf
+*.xml  text eol=lf
+*.adoc text eol=lf
+*.md   text eol=lf
+
+# Binarios
+*.pdf  -text -diff
+*.png  -text
+*.jpg  -text
+*.jar  -text
+*.class -text
