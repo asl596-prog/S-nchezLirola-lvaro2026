@@ -41,6 +41,10 @@ proyectoBaseIP2027/
    - El compilador de Java 21 y la gestión de dependencias Maven.
    - La estructura de paquetes Python sin conflicto con el compilador Java.
 
+#### Enlaces de interés:
+
+[Guía de uso de Eclipse (UPM)](https://raw.githubusercontent.com/shiguera/Apuntes_C_Java/master/ManualEclipse.pdf)
+
 ### 2. Pruebas y Compilación desde Línea de Comandos
 
 #### Java 

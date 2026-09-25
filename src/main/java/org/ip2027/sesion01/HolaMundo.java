@@ -1,4 +1,4 @@
-package org.ip.sesion01;
+package org.ip2027.sesion01;
 
 public class HolaMundo {
 
